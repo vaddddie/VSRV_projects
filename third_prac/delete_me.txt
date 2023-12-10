@@ -1,0 +1,1 @@
+only_one_word_because_SCANF
